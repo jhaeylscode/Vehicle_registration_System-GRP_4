@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+resources/js/Pages/Owners/
+resources/js/Pages/Registrations/
+resources/js/Pages/Vehicles/
